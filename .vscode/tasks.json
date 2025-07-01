@@ -1,0 +1,15 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Swift Run",
+			"type": "shell",
+			"command": "swift run",
+			"group": "build",
+			"isBackground": false,
+			"problemMatcher": [
+				"$swift"
+			]
+		}
+	]
+}
